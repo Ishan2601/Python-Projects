@@ -1,2 +1,2 @@
 # Python-Projects
-All my python projects
+## Awesome Python Projects
